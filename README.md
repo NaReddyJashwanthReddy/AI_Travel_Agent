@@ -42,7 +42,7 @@ Welcome to the AI-Powered Travel Assistant! ✈️🗺️ This project is design
 
 ## 📨 Contact & Support
 If you have any issues, feel free to reach out! 📬
-📧 Email: support@travelassistant.com  
+📧 Email: tangwulinggd@gmail.com  
 🌍 Website: [www.travelassistant.com](https://www.travelassistant.com)
 
 Happy Travels! 🌍✈️🧳
