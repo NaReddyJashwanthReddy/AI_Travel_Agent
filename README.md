@@ -33,7 +33,7 @@ Welcome to the AI-Powered Travel Assistant! ✈️🗺️ This project is design
 ## 🎙️ Usage Instructions
 1️⃣ Run the assistant:  
 ```bash
-  python main.py
+  python app.py
 ```
 2️⃣ Speak clearly and provide the required travel details 🗣️
 3️⃣ The assistant will gather all the information and send you an email 📩
