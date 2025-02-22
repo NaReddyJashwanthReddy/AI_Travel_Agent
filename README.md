@@ -25,12 +25,7 @@ Welcome to the AI-Powered Travel Assistant! ✈️🗺️ This project is design
   cd travel-assistant
 ```
 
-2️⃣ Install dependencies:  
-```bash
-  pip install -r requirements.txt
-```
-
-3️⃣ Set up environment variables:  
+2️⃣ Set up environment variables:  
 - **Amadeus API Credentials** (For flights/hotels)
 - **Groq API Key** (For AI model processing)
 - **Gmail Credentials** (For email notifications)
