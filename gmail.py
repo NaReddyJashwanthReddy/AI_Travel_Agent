@@ -6,7 +6,7 @@ class SendMail:
 
     def __init__(self,To='jashwanthreddysungjin@gmail.com'):
         self.form="tangwulinggd@gmail.com"
-        self.password='rzeg nfsi swsd brcz'
+        self.password='password here'
         self.to=To
 
     def sendMail(self,subject,body):
