@@ -21,7 +21,7 @@ Welcome to the AI-Powered Travel Assistant! ✈️🗺️ This project is design
 ## 🏗️ Installation
 1️⃣ Clone the repository:  
 ```bash
-  git clone https://github.com/yourrepo/travel-assistant.git
+  git clone https://github.com/NaReddyJashwanthReddy/AI_Travel_Agent.git
   cd travel-assistant
 ```
 
