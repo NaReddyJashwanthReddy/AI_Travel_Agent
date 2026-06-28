@@ -46,3 +46,4 @@ If you have any issues, feel free to reach out! 📬
 🌍 Website: [www.travelassistant.com](https://www.travelassistant.com)
 
 Happy Travels! 🌍✈️🧳
+Safe Journey
