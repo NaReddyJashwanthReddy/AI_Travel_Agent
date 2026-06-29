@@ -45,5 +45,6 @@ If you have any issues, feel free to reach out! 📬
 📧 Email: tangwulinggd@gmail.com  
 🌍 Website: [www.travelassistant.com](https://www.travelassistant.com)
 
-Happy Travels! 🌍✈️🧳
+Happy Travels!
+We wish you a trip with amazing memories!🌍✈️🧳
 Safe Journey
