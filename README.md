@@ -46,5 +46,6 @@ If you have any issues, feel free to reach out! 📬
 🌍 Website: [www.travelassistant.com](https://www.travelassistant.com)
 
 Happy Travels!
-We wish you a trip with amazing memories!🌍✈️🧳
+We wish you a trip with amazing memories!
+First impressions last , get that into your head
 Safe Journey
