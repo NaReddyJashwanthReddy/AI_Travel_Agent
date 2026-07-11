@@ -48,6 +48,4 @@ If you have any issues, feel free to reach out! 📬
 Happy Travels!
 We wish you a trip with amazing memories!
 First impressions last , get that into your head
-make more memories
-make memories for a lifetime
 Safe Journey
